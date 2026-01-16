@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> //Find GCF of two numbers using loop
 
 int main() {
     int n1 = 12, n2 = 18;
@@ -16,4 +16,5 @@ int main() {
     printf("Calculated using Normal Loop: %d\n", gcd_loop);
     return 0;
 }
+
 
